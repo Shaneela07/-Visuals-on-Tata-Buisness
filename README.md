@@ -81,6 +81,15 @@ The third analysis has been performed on the top 10 customers who have purchased
 
 Finally, the map chart shows the regions that have generated the most revenue compared with the regions that have not. It can be seen that apart from the UK, countries such as Netherlands,Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. The map also shows that most of the sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. A new strategy targeting these areas has the potential to boost sales revenues and profitability.
 
+# Connect with Me
+
+Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
+
+
+For any inquiries or collaborations, feel free to reach out:
+
+LinkedIn: https://www.linkedin.com/in/shaneela-anjum
+
 
 
 
